@@ -8,7 +8,7 @@ Esta API foi hospedada usando o Heroku e pode acessada em https://store-backend-
 A documentação da API pode ser acessada em https://store-backend-node.herokuapp.com/apidoc
 
 # Dados
-A base de dados em PostgreSQL criada e hospedada em https://www.elephantsql.com/.  
+A base de dados em PostgreSQL foi criada e hospedada em https://www.elephantsql.com/.  
 Comandos SQL usados na criação estão listados no arquivo ./db/script.sql
 
 ## Executando em um servidor local
